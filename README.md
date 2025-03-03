@@ -7,7 +7,7 @@ I am Dražen, an enthusiastic beginner in the world of programming 🌟. I recen
 - Understanding algorithms and data structures
 
 🚀 My future plans include:
-- Learning full-stack web development (HTML, CSS, JavaScript, React, Node.js)
+- Learning back-end web development
 - Diving deeper into computer science topics (algorithms, databases, computer networks)
 
 💻 Why am I passionate about technology?
