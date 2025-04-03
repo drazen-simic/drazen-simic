@@ -3,12 +3,12 @@
 I am Dražen, an enthusiastic beginner in the world of programming 🌟. I recently started my journey by learning Python, exploring the basics of programming and problem-solving. My goal is to continuously learn and develop skills that will prepare me for challenges in the tech world.
 
 💡 Currently working on:
-- Learning Python through projects and exercises
-- Understanding algorithms and data structures
+- Learning Python through projects and exercises (especially NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn)
+- Learning Databases, SQL, Excel, Power BI
 
 🚀 My future plans include:
-- Learning back-end web development
-- Diving deeper into computer science topics (algorithms, databases, computer networks)
+- Diving deeper into data science topics (machine learning, deep learning, AI)
+- Working as Data Analyst/Scientist
 
 💻 Why am I passionate about technology?
 I believe technology has the power to change the world, and I want to be part of that change. I am committed to learning every day and creating projects that help others while improving my understanding of technology.
